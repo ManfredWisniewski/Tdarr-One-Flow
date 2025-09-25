@@ -423,7 +423,7 @@
       "version": "1.0.0",
       "inputsDB": {
         "variable": "fl_cpu_quality",
-        "value": "-preset medium"
+        "value": "-preset=medium"
       },
       "id": "KtEhs8mRz",
       "position": {
